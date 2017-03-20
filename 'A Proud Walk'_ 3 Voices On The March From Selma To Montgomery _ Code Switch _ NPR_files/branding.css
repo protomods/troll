@@ -1,0 +1,13 @@
+@media screen and (max-width: 767px) {
+    .branding .branding__image-title {
+        display: none;
+    }
+
+    .branding .branding__title--custom-image > b {
+        display: block;
+    }
+}
+
+.branding .branding__image-title {
+    height: 65px;
+}
